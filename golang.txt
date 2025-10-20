@@ -1,0 +1,6 @@
+Why Golang?
+->
+5M user use your company service software
+every month bill=20koti[java]
+every month bill=8-10koti[nodejs]
+every month bill=2-3koti[golang]
